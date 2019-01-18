@@ -21,3 +21,4 @@ Main Features:
 - Automatically Generating Materials for both Cycles and BI;
 
 Compatible with Blender 2.79
+![image2](https://github.com/Shahzod114/Bakelab-Blender-addon/blob/master/banner2.jpg)
