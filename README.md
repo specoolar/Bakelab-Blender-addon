@@ -1,5 +1,7 @@
 # Bakelab-Blender-addon
 
+![image1](https://github.com/Shahzod114/Bakelab-Blender-addon/blob/master/banner.jpg)
+
 BakeLab - A blender addon for baking images.
 
 Main Features:
