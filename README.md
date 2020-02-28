@@ -3,7 +3,7 @@
 ![image1](https://github.com/Shahzod114/Bakelab-Blender-addon/blob/master/banner.jpg)
 BakeLab - A blender addon for baking images.<br>
 Compatible with Blender 2.79<br>
-For blender version 2.79 go to [here](https://github.com/Shahzod114/Blender-BakeLab2)
+For blender version 2.81+ go to [here](https://github.com/Shahzod114/Blender-BakeLab2)
 
 Main Features:
 * Automatically unwrap objects, create images, bake objects, save/pack images, generate materials in one click;
